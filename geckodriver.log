@@ -380,3 +380,46 @@ console.error: BroadcastService:
   Stack:
     remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:201:13
 
+[Parent 1064, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1565706750/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 3276, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1565706750/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 23020, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1565706750/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 23[Parent 1064, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1565706750/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 18268, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1565706750/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 182681566912010294	Marionette	TRACE	Received observer notification xpcom-will-shutdown
+1566912010294	Marionette	DEBUG	Resetting recommended pref apz.content_response_timeout
+1566912010294	Marionette	DEBUG	Resetting recommended pref browser.contentblocking.introCount
+1566912010294	Marionette	DEBUG	Resetting recommended pref browser.download.panel.shown
+1566912010294	Marionette	DEBUG	Resetting recommended pref browser.newtabpage.enabled
+1566912010294	Marionette	DEBUG	Resetting recommended pref browser.pagethumbnails.capturing_disabled
+1566912010294	Marionette	DEBUG	Resetting recommended pref browser.search.update
+1566912010294	Marionette	DEBUG	Resetting recommended pref browser.tabs.disableBackgroundZombification
+1566912010295	Marionette	DEBUG	Resetting recommended pref browser.tabs.remote.separatePrivilegedContentProcess
+1566912010295	Marionette	DEBUG	Resetting recommended pref browser.tabs.unloadOnLowMemory
+1566912010295	Marionette	DEBUG	Resetting recommended pref browser.tabs.warnOnCloseOtherTabs
+1566912010295	Marionette	DEBUG	Resetting recommended pref browser.tabs.warnOnOpen
+1566912010295	Marionette	DEBUG	Resetting recommended pref browser.usedOnWindows10.introURL
+1566912010295	Marionette	DEBUG	Resetting recommended pref browser.urlbar.suggest.searches
+1566912010295	Marionette	DEBUG	Resetting recommended pref datareporting.policy.dataSubmissionPolicyAccepted
+1566912010295	Marionette	DEBUG	Resetting recommended pref dom.disable_beforeunload
+1566912010296	Marionette	DEBUG	Resetting recommended pref dom.disable_open_during_load
+1566912010296	Marionette	DEBUG	Resetting recommended pref dom.file.createInChild
+1566912010296	Marionette	DEBUG	Resetting recommended pref dom.max_chrome_script_run_time
+1566912010296	Marionette	DEBUG	Resetting recommended pref dom.max_script_run_time
+1566912010296	Marionette	DEBUG	Resetting recommended pref extensions.getAddons.cache.enabled
+1566912010296	Marionette	DEBUG	Resetting recommended pref extensions.webservice.discoverURL
+1566912010296	Marionette	DEBUG	Resetting recommended pref network.http.prompt-temp-redirect
+1566912010296	Marionette	DEBUG	Resetting recommended pref network.http.speculative-parallel-limit
+1566912010296	Marionette	DEBUG	Resetting recommended pref security.certerrors.mitm.priming.enabled
+1566912010296	Marionette	DEBUG	Resetting recommended pref security.fileuri.strict_origin_policy
+1566912010296	Marionette	DEBUG	Resetting recommended pref security.notification_enable_delay
+1566912010296	Marionette	DEBUG	Resetting recommended pref signon.autofillForms
+1566912010296	Marionette	DEBUG	Resetting recommended pref signon.rememberSignons
+1566912010297	Marionette	DEBUG	Resetting recommended pref toolkit.cosmeticAnimations.enabled
+1566912010297	Marionette	INFO	Stopped listening on port 11115
+1566912010297	Marionette	DEBUG	Remote service is inactive
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
